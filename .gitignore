@@ -38,3 +38,11 @@
 .buildpath
 .project
 .settings/
+
+
+# For save
+*.old
+*.old.*
+*.bak
+*.bak.*
+
